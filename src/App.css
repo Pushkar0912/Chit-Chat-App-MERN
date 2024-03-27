@@ -1,0 +1,13 @@
+*{
+  /* max-width: 1280px; */
+  margin: 0 ;
+  padding: 0;
+}
+
+.App{
+  background-color: rgb(202, 145, 255);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
